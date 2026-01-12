@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Kelly Dixon",
+    "phone": "(774) 772-1719",
+    "email": "enim.diam@aol.com",
+    "country": "India",
+    "currency": "$40.79",
+    "numberrange": 3,
+    "address": "233-4611 Dolor Rd.",
+    "id": 1
+  },
+  {
+    "name": "Cody Barker",
+    "phone": "(719) 733-9754",
+    "email": "cubilia.curae@hotmail.com",
+    "country": "India",
+    "currency": "$67.23",
+    "numberrange": 2,
+    "address": "573-2168 Eget Rd.",
+    "id": 2
+  },
+  {
+    "name": "Sawyer Todd",
+    "phone": "1-117-870-7645",
+    "email": "cras.sed.leo@google.org",
+    "country": "South Africa",
+    "currency": "$8.61",
+    "numberrange": 8,
+    "address": "9529 Tincidunt Ave",
+    "id": 3
+  },
+  {
+    "name": "harsh bairagi",
+    "phone": "7972173882",
+    "email": "hrsskew834@gmail.com",
+    "country": "India",
+    "currency": "rupees",
+    "id": 6
+  },
+  {
+    "name": "harsh bairagi",
+    "phone": "7972173882",
+    "email": "hrsskew834@gmail.com",
+    "country": "India",
+    "currency": "rupees",
+    "id": 7
+  },
+  {
+    "name": "harsh",
+    "address": "dhanbad",
+    "phone": "3920393",
+    "surname": "bairagi",
+    "id": 8
+  },
+  {
+    "name": "Jhon ",
+    "surname": "Dae",
+    "phone": "732933298",
+    "marks": "49",
+    "id": 9
+  },
+  {
+    "name": "Jane",
+    "surname": "Janie",
+    "phone": "732933298",
+    "marks": "49",
+    "id": 10
+  },
+  {
+    "name": "ramesh",
+    "surname": "sharma",
+    "phone": "7373737372",
+    "marks": "78",
+    "id": 11
+  }
+]

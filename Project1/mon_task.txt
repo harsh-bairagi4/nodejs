@@ -1,0 +1,4 @@
+How does mongoose works?
+1. In mongoose we have Schema, using this Schema we define the structure.
+2. Using this Schema we create Model.
+3. And with that model we do CRUD operations

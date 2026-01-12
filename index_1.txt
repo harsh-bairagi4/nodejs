@@ -1,0 +1,23 @@
+You can't run javascript outside the browser but can run it inside the browser as every browser has a engine called javascript engine
+which it use to execute your javascript code
+1. Chrome uses V8 Engine (Most Popular Engine)
+2. Firefox uses Spider Monkey Engine
+3. Safari uses Apple Engine
+Ryan Dahl embedded the V8 engine of chrome with C++ and made nodejs
+
+So just because of Node JS:
+You can run JS outside of the browser 
+Javascript can talk to native machine because of C++
+You can create webservers in Javascript Language.
+
+So what is NodeJs?
+NodeJS is a Runtime Environment for Javascript, its neither a library nor a framework
+npm -V (It is showing all the commands and work npm can do)
+npm -v (It is some number e.g. the version of npm)
+
+So, what is this npm?
+Okay, so npm stands for node pacakage manager ,so when we installed node js ,npm automatically gets installed 
+e.g. When we will be making some projects and servers within node for that we will need some packages and plugins ,so to handle all of them we use npm e.g. node package manager with the help of which we can manage our package that is what to install and what not to. that all tasks is done with the help of npm.
+npm ships by-default with nodejs
+
+
